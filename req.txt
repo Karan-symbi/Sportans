@@ -1,0 +1,22 @@
+fastapi
+uvicorn
+mysql-connector-python
+passlib[bcrypt]
+python-dotenv
+google-generativeai
+google-genai
+pydantic
+pydantic[email]
+langchain-huggingface
+langchain
+diffusers>=0.30.0
+transformers>=4.44.0
+accelerate>=0.33.0
+imageio[ffmpeg]>=2.34.0
+python-multipart
+langchain-groq
+
+# Pose Feedback Dependencies
+gTTS==2.5.0
+SpeechRecognition==3.10.1
+websockets>=13.0
